@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fnumilat/node-server-testing-challenge.git"
+    "url": "git+https://github.com/vospader13/node-server-testing-challenge.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fnumilat/node-server-testing-challenge/issues"
+    "url": "https://github.com/vospader13/node-server-testing-challenge"
   },
-  "homepage": "https://github.com/fnumilat/node-server-testing-challenge#readme",
+  "homepage": "https://github.com/vospader13/node-server-testing-challenge#readme",
   "dependencies": {
     "express": "^4.17.1",
     "knex": "^0.21.1",
